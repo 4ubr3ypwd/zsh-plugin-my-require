@@ -9,7 +9,7 @@ https://github.com/aubreypwd/zsh-plugin-require
 Using [antigen](https://github.com/zsh-users/antigen):
 
 ```bash
-antigen bundle aubreypwd/zsh-plugin-my-require@1.0.0
+antigen bundle aubreypwd/zsh-plugin-my-require
 ```
 
 ## Development
